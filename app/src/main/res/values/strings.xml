@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Holi Card</string>
+    <string name="hi">Hi,</string>
+    <string name="happy_holi">Happy Holi</string>
+    <string name="from_guddu">From, Ankit</string>
+    <string name="todo">TODO</string>
+</resources>
